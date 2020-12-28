@@ -1,7 +1,9 @@
 const express = require('express');
 const { v4, validate } = require('uuid');
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
 
 /**
  * Trabalha com um array para armazenar os dados das requisições
