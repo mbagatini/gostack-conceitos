@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1: Conceitos do NodeJS
+  Desafio 01: Conceitos do NodeJS
 </h3>
 
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
